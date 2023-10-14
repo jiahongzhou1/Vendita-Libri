@@ -58,3 +58,5 @@ ti aprira direttamente il server in locale
 
 [PS: tutto quello che devi sapere per iniziare in angular puoi trovarlo qui](https://www.digitalocean.com/community/tutorials/getting-started-with-angular-using-the-angular-cli)
 
+## template per il sito 
+-  [Pagina intro/home](https://docs.google.com/drawings/d/1700hZ3xviCbaNBmh4zjfBlH9tL3JoaDXKQBlpEVrb6I)
