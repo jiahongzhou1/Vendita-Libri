@@ -1,0 +1,24 @@
+.nav-bar {
+    position: sticky;
+    top : 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 2em;
+    background-color: aquamarine;
+}
+
+.icona {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.links {
+    display: flex;
+    min-width: 40%;
+    justify-content: space-between;
+    align-items: center;
+ 
+}
