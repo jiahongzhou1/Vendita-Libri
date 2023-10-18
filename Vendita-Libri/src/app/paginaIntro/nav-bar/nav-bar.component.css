@@ -22,3 +22,8 @@
     align-items: center;
  
 }
+
+.icon{
+max-width: 28px;
+max-height: 30px;
+}
