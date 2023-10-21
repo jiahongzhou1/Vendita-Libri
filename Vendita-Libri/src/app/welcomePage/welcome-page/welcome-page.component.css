@@ -1,0 +1,42 @@
+.Tutto {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 55%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transform: translate(-50%, -50%);
+}
+
+.Img {
+    margin-left: 20px;
+    width: fit-content;
+    height: 50%;
+    max-height: 50vh;
+}
+
+.icon {
+    max-width: 28px;
+    max-height: 30px;
+}
+
+.icona {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+h1,h2,h3,h4,h5,h6,p,button{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+.button{
+border: none;
+color: white;
+background-color: black;
+border-radius: 10px;
+padding: 5px 20px;
+}
